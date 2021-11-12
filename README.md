@@ -11,4 +11,5 @@ Nous avons également utilisé les sources suivantes :
 - police stations : https://data.cityofchicago.org/Public-Safety/Police-Stations-Map/gkur-vufi
 - police districts : https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r
 
-Ces sources nous ont permis de générer le [carte finale](/final%20map.svg).
+Ces sources nous ont permis de générer :
+![carte finale](/final%20map.svg).
